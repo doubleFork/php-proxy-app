@@ -4,6 +4,9 @@
 ![](https://img.shields.io/packagist/dt/Athlon1600/php-proxy-app.svg) ![](https://img.shields.io/github/last-commit/Athlon1600/php-proxy-app.svg) ![](https://img.shields.io/github/license/Athlon1600/php-proxy-app.svg)
 
 </center>
+<a href="https://heroku.com/deploy?template=https://github.com/stewpidtnlvr/php-proxy-heroku/tree/master">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
 
 
 # php-proxy-app
