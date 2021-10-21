@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>おちんちんびろーん</title>
+<title>数学のススメ</title>
 
 <meta name="generator" content="hiroshimagakuin.ed.jp">
 <meta name="version" content="<?=$version;?>">
@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:midnightblue;">おちんちんProxy</h1>
+		<h1 style="color:midnightblue;">あなたの誕生日当てます</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
@@ -67,7 +67,7 @@ html body {
 	<!-- I wouldn't touch this part -->
 	
 		<form action="index.php" method="post" style="margin-bottom:0;">
-			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
+			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="好きな数字を入力してください" />
 			<input type="submit" value="Go" />
 		</form>
 		
@@ -82,9 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	 <div style="text-align:center;">
-		<h1 style="color:peachpuff;">中嶋</h1>
-	</div>
+	 
 </div>
 
 
