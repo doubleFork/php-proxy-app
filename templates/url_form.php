@@ -23,13 +23,13 @@ html body {
 	
     background:#2f4f4f;
 	
-	height:60px;
-	line-height:60px;
+	height:5px;
+	line-height:5px;
 }
 
 #top_form input[name=url] {
 	width: 550px;
-	height: 20px;
+	height: 2px;
 	padding: 5px;
 	font: 13px "Helvetica Neue",Helvetica,Arial,sans-serif;
 	border: 0px none;
