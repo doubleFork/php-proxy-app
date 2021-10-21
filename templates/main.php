@@ -14,7 +14,7 @@ html body {
 }
 
 #container {
-	width:500px;
+	width:4000px;
 	margin:0 auto;
 	margin-top:150px;
 }
