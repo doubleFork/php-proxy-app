@@ -14,13 +14,13 @@ html body {
 }
 
 #container {
-	width:4000px;
+	width:10px;
 	margin:0 auto;
 	margin-top:150px;
 }
 
 #error {
-	color:red;
+	color:blue;
 	font-weight:bold;
 }
 
@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">おちんちんProxy</h1>
+		<h1 style="color:red;">おちんちんProxy</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
