@@ -37,7 +37,7 @@ html body {
 
 #footer {
 	text-align:center;
-	font-size:500px;
+	font-size:100px;
 	margin-top:35px;
 	clear:both;
 }
