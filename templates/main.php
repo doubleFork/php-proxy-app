@@ -37,7 +37,7 @@ html body {
 
 #footer {
 	text-align:center;
-	font-size:10px;
+	font-size:500px;
 	margin-top:35px;
 	clear:both;
 }
@@ -67,7 +67,7 @@ html body {
 	<!-- I wouldn't touch this part -->
 	
 		<form action="index.php" method="post" style="margin-bottom:0;">
-			<input name="おちんちん" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
+			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
 			<input type="submit" value="Go" />
 		</form>
 		
@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+	 oppai <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
 </div>
 
 
