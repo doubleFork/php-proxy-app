@@ -2,9 +2,9 @@
 <html>
 <head>
 
-<title>Yoshimoto</title>
+<title>おちんちんびろーん</title>
 
-<meta name="generator" content="php-proxy.com">
+<meta name="generator" content="hiroshimagakuin.ed.jp">
 <meta name="version" content="<?=$version;?>">
 
 <style type="text/css">
@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">PHP-Proxy</h1>
+		<h1 style="color:blue;">おちんちんProxy</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
