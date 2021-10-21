@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:peachpuff;">おちんちんProxy</h1>
+		<h1 style="color:midnightblue;">おちんちんProxy</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
@@ -83,7 +83,7 @@ html body {
 
 <div id="footer">
 	 <div style="text-align:center;">
-		<h1 style="color:peachpuff;">おっぱいせっくす！！</h1>
+		<h1 style="color:peachpuff;">中嶋</h1>
 	</div>
 </div>
 
