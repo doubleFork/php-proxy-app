@@ -82,7 +82,9 @@ html body {
 </div>
 
 <div id="footer">
-	 oppai <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+	 <div style="text-align:center;">
+		<h1 style="color:peachpuff;">おっぱいせっくす！！</h1>
+	</div>
 </div>
 
 
