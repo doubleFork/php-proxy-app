@@ -19,12 +19,12 @@ html body {
 	-webkit-user-select: none; 
 	-o-user-select: none; 
 	
-	border-bottom:1px solid #151515;
+	border-bottom:1px solid #2f4f4f;
 	
-    background:#FFC8C8;
+    background:#2f4f4f;
 	
-	height:45px;
-	line-height:45px;
+	height:60px;
+	line-height:60px;
 }
 
 #top_form input[name=url] {
