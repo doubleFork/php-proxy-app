@@ -10,7 +10,7 @@
 <style type="text/css">
 html body {
 	font-family: Arial,Helvetica,sans-serif;
-	font-size: 12px;
+	font-size: 50px;
 }
 
 #container {
