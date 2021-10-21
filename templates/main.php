@@ -25,10 +25,10 @@ html body {
 }
 
 #frm {
-	padding:10px 15px;
-	background-color:#FFC8C8;
+	padding:60px 55px;
+	background-color:#2f4f4f;
 	
-	border:1px solid #818181;
+	border:1px solid #2f4f4f;
 	
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
