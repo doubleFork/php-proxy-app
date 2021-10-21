@@ -14,7 +14,7 @@ html body {
 }
 
 #container {
-	width:10px;
+	width:500px;
 	margin:0 auto;
 	margin-top:150px;
 }
@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:red;">おちんちんProxy</h1>
+		<h1 style="color:peachpuff;">おちんちんProxy</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
@@ -67,7 +67,7 @@ html body {
 	<!-- I wouldn't touch this part -->
 	
 		<form action="index.php" method="post" style="margin-bottom:0;">
-			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
+			<input name="おちんちん" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
 			<input type="submit" value="Go" />
 		</form>
 		
