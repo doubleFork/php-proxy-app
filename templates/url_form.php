@@ -59,7 +59,15 @@ function smart_select(ele){
 
 <div id="top_form">
 
-	<div style="width:800px; margin:0 auto;">
+	
+	
+</div>
+
+<script type="text/javascript">
+	smart_select(document.getElementsByName("url")[0]);
+</script>
+
+<div style="width:800px; margin:0 auto;">
 	
 		<form method="post" action="index.php" target="_top" style="margin:0; padding:0;">
 			<input type="button" value="Home" onclick="window.location.href='index.php'">
@@ -69,9 +77,3 @@ function smart_select(ele){
 		</form>
 		
 	</div>
-	
-</div>
-
-<script type="text/javascript">
-	smart_select(document.getElementsByName("url")[0]);
-</script>
