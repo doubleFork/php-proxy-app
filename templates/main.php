@@ -57,7 +57,7 @@ html body {
 	<?php if(isset($error_msg)){ ?>
 	
 	<div id="error">
-		<p><?php echo strip_tags($error_msg); ?></p>
+		<h1 style="color:magenta;">もう一度入力してください。</h1>
 	</div>
 	
 	<?php } ?>
