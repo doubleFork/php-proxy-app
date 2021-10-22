@@ -2,7 +2,7 @@
 <html>
 <head>
 
-<title>PHP-Proxy</title>
+<title>普通選挙の仕組み</title>
 
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">PHP-Proxy</h1>
+		<h1 style="color:blue;">〜実際に投票してみよう〜</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
@@ -67,7 +67,7 @@ html body {
 	<!-- I wouldn't touch this part -->
 	
 		<form action="index.php" method="post" style="margin-bottom:0;">
-			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
+			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="賛成、反対のいずれかを入力。" />
 			<input type="submit" value="Go" />
 		</form>
 		
@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+	Powered by <a href="//mangapro.top/" target="_blank">明るい選挙管理委員会</a> <?php echo $version; ?>
 </div>
 
 
