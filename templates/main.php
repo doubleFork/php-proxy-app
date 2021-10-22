@@ -26,9 +26,9 @@ html body {
 
 #frm {
 	padding:10px 15px;
-	background-color:#FFC8C8;
+	background-color:#9acd32;
 	
-	border:1px solid #818181;
+	border:1px solid #9acd32;
 	
 	-webkit-border-radius: 8px;
 	-moz-border-radius: 8px;
@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">〜実際に投票してみよう〜</h1>
+		<h1 style="color:magenta;">〜実際に投票してみよう〜</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
