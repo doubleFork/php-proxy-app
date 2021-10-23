@@ -9,8 +9,8 @@
 
 <style type="text/css">
 html body {
-	font-family: Arial,Helvetica,sans-serif;
-	font-size: 12px;
+	font-family: Kokoro,Arial,Helvetica,sans-serif;
+	font-size: 30px;
 }
 
 #container {
@@ -25,14 +25,14 @@ html body {
 }
 
 #frm {
-	padding:10px 15px;
+	padding:30px 40px;
 	background-color:#9acd32;
 	
 	border:1px solid #9acd32;
 	
-	-webkit-border-radius: 8px;
-	-moz-border-radius: 8px;
-	border-radius: 8px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
 }
 
 #footer {
@@ -68,7 +68,7 @@ html body {
 	
 		<form action="index.php" method="post" style="margin-bottom:0;">
 			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="賛成、反対のいずれかを入力。" />
-			<input type="submit" value="Go" />
+			<input type="submit" value="投票" />
 		</form>
 		
 		<script type="text/javascript">
@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//mangapro.top/" target="_blank">明るい選挙管理委員会</a> <?php echo $version; ?>
+	This site is made by <a href="//mangapro.top/" target="_blank">明るい選挙管理委員会</a> <?php echo $version; ?>
 </div>
 
 
