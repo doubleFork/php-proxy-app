@@ -2,15 +2,15 @@
 <html>
 <head>
 
-<title>PHP-Proxy</title>
+<title>普通選挙の仕組み</title>
 
 <meta name="generator" content="php-proxy.com">
 <meta name="version" content="<?=$version;?>">
 
 <style type="text/css">
 html body {
-	font-family: Arial,Helvetica,sans-serif;
-	font-size: 12px;
+	font-family: Kokoro,Arial,Helvetica,sans-serif;
+	font-size: 15px;
 }
 
 #container {
@@ -25,14 +25,14 @@ html body {
 }
 
 #frm {
-	padding:10px 15px;
-	background-color:#FFC8C8;
+	padding:30px 40px;
+	background-color:#9acd32;
 	
-	border:1px solid #818181;
+	border:1px solid #9acd32;
 	
-	-webkit-border-radius: 8px;
-	-moz-border-radius: 8px;
-	border-radius: 8px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
 }
 
 #footer {
@@ -51,13 +51,13 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">PHP-Proxy</h1>
+		<h1 style="color:magenta;">〜実際に投票してみよう〜</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
 	
 	<div id="error">
-		<p><?php echo strip_tags($error_msg); ?></p>
+		<h1 style="color:midnightblue;">投票を体験出来てよかったね(＾ω＾)</h1>
 	</div>
 	
 	<?php } ?>
@@ -67,8 +67,8 @@ html body {
 	<!-- I wouldn't touch this part -->
 	
 		<form action="index.php" method="post" style="margin-bottom:0;">
-			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
-			<input type="submit" value="Go" />
+			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="賛成、反対のいずれかを入力。" />
+			<input type="submit" value="投票" />
 		</form>
 		
 		<script type="text/javascript">
@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+	This site is made by <a href="//mangapro.top/" target="_blank">明るい選挙管理委員会</a> <?php echo $version; ?>
 </div>
 
 
