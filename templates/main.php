@@ -27,13 +27,11 @@
         border: 0px solid #ffffff;
         outline: 0;
 	-webkit-appearance: none;
-	font-family:"Hiragino Mincho ProN"
 }
 .bottom input[type="text"]:focus{
 	outline: 0;
 	-webkit-appearance: none;
         border-color: #ffffff;
-	font-family:"Hiragino Mincho ProN"
 	font-size:1.0em;
 }
 .bottom input[type="submit"]{
@@ -238,7 +236,7 @@
     <ul class="bottom">
         <li><form action="index.php" method="post" style="margin-bottom:0;">
 		<input name="url" type="text" style="width:400px;" autocomplete="off" value="運営会社"/>
-		<input type="submit" value="Go"/>
+		<input type="submit" value="利用規約"/>
 	</form>
 	<script type="text/javascript">
 		document.getElementsByName("url")[0].focus();
