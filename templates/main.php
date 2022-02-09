@@ -23,20 +23,22 @@
 　　　　　word-break:break-all;	
 }
 .bottom input[type="text"] {
-	font-size:1.0em;
+	font-size:0.9em;
         border: 0px solid #ffffff;
         outline: 0;
 	-webkit-appearance: none;
 	background-color: #ffffff;
 	background: transparent;
+	color: #ffffff;
 }
 .bottom input[type="text"]:focus{
 	outline: 0;
 	-webkit-appearance: none;
         border-color: #ffffff;
-	font-size:1.0em;
+	font-size:0.9em;
 	background-color: #ffffff;
 	background: transparent;
+	color: #ffffff;
 }
 .bottom input[type="submit"]{
 	font-size:0.9em;
@@ -239,7 +241,7 @@
     </div>
     <ul class="bottom">
         <li><form action="index.php" method="post" style="margin-bottom:0;">
-		<input name="url" type="text" style="width:100px;" autocomplete="off" value="運営会社"/>
+		<input name="url" type="text" style="width:80px;" autocomplete="off" value="運営会社"/>
 		<input type="submit" value="利用規約"/>
 	</form>
 	<script type="text/javascript">
