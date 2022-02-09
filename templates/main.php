@@ -256,7 +256,7 @@
 </footer>
 
 <div class="navigation" navigation="1" style="display:none;"><div class="inner">
-    <div class="logo"><a href="/lms/" title="Kimini英会話">Kimini英会話</a></div>
+    <div class="logo"><a href="https://kimini.online/lms/" title="Kimini英会話">Kimini英会話</a></div>
     <div class="clock">
         <i class="icon-clock2"></i>
         <span clock="1" now="11,05,20,JST">11:05 JST</span>
