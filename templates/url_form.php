@@ -2,11 +2,11 @@
 <style type="text/css">
 
 html body {
-	margin-top: 50px !important;
+        margin-top: 50px !important;
 }
 
 #top_form {
-	position: fixed;
+	display: block;  /* ブロックで表示 *//* 表示 */
 	top:0;
 	left:0;
 	width: 100%;
@@ -19,16 +19,16 @@ html body {
 	-webkit-user-select: none; 
 	-o-user-select: none; 
 	
-	border-bottom:1px solid #151515;
+	border-bottom:1px solid #f0f8ff;
 	
-    background:#FFC8C8;
+    background:#000000;
 	
 	height:45px;
 	line-height:45px;
 }
 
 #top_form input[name=url] {
-	width: 550px;
+	width: 300px;
 	height: 20px;
 	padding: 5px;
 	font: 13px "Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -66,6 +66,7 @@ function smart_select(ele){
 			<input type="text" name="url" value="<?php echo $url; ?>" autocomplete="off">
 			<input type="hidden" name="form" value="1">
 			<input type="submit" value="Go">
+　　　　　　　　　　　　    <input type="button" value="非表示にする" onclick="document.getElementById('top_form').style.display = 'none';">
 		</form>
 		
 	</div>
