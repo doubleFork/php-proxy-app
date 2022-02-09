@@ -65,11 +65,11 @@
                 <input type="hidden" name="forward_to" value="/">
                 <div class="mb10 red" error="1" style="display:none;"></div>
                 <div class="mb10"><form action="index.php" method="post" style="margin-bottom:0;">
-		<input name="url" type="text" autocomplete="off" placeholder="ログインID" value=""/>
-	</form>
-	<script type="text/javascript">
-		document.getElementsByName("url")[0].focus();
-			</script></div>
+		<input name="url" type="text" autocomplete="off" placeholder="ログインID" value="">
+	        </form>
+	            <script type="text/javascript">
+		        document.getElementsByName("url")[0].focus();
+		    </script></div>
                 <div class="mb5"><input type="password" name="passwd" placeholder="パスワード" class="w100p"></div>
                 <div>
                     <div class="line fl">
