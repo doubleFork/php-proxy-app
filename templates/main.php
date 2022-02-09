@@ -27,7 +27,7 @@
 
 <header>
 <div class="inner">
-    <div class="logo"><a href="/lms/" title="Kimini英会話">Kimini英会話</a></div>
+    <div class="logo"><a href="https://kimini.online/lms/" title="Kimini英会話">Kimini英会話</a></div>
     <div class="lead">学研のオンライン英会話</div>
 
     
@@ -35,9 +35,9 @@
     <div class="menu">
         <ul>
             <li class="guide"><a href="https://kimini.online/" target="_blank"><i class="icon-play2 mr2"></i>はじめての方へ</a></li>
-            <li class="login"><a href="/lms/login/"><i class="icon-user gray mr3"></i>ログイン</a></li>
+            <li class="login"><a href="https://kimini.online/lms/login/"><i class="icon-user gray mr3"></i>ログイン</a></li>
         </ul>
-        <a href="/lms/register/" class="btn yellow pl15 pr20"><i class="icon-note mr6"></i>新規登録</a>
+        <a href="https://kimini.online/lms/register/" class="btn yellow pl15 pr20"><i class="icon-note mr6"></i>新規登録</a>
     </div>
     
     
@@ -57,8 +57,8 @@
     <div class="inner" login-or-register="1">
         <div class="content">
             <ul class="navigation-bar table mb15">
-                <li class="active w50p" mode="login"><a href="/lms/login/" class="tc">ログイン</a></li>
-                <li class="" mode="register"><a href="/lms/register/" class="tc">新規登録</a></li>
+                <li class="active w50p" mode="login"><a href="https://kimini.online/lms/login/" class="tc">ログイン</a></li>
+                <li class="" mode="register"><a href="https://kimini.online/lms/register/" class="tc">新規登録</a></li>
             </ul><div class="navigation-bar-after" style="top: -17px;"></div>
             <div form="login"><form>
                 <input type="hidden" name=".crumb" value="b45711f6c49345b90f4b6709ac49f35437c55c79">
@@ -75,7 +75,7 @@
                         <label>次回から自動的にログインする</label></div>
                     </div>
                     <div class="line fr tr">
-                        <a href="/lms/password/forgot" class="f12px"><i class="icon-help mr3 top-1px op75"></i>パスワードを忘れた方</a>
+                        <a href="https://kimini.online/lms/password/forgot" class="f12px"><i class="icon-help mr3 top-1px op75"></i>パスワードを忘れた方</a>
                     </div>
                 </div>
                 <div class="tc clear pt10">
@@ -131,18 +131,18 @@
         <div class="divider"><span>or</span></div>
         <ul class="" form="login">
             
-            <li><a href="/lms/login/with_facebook" class="plain"><i class="icon-facebook2 f24px mr8 facebook"></i>Facebookアカウントでログイン</a></li>
+            <li><a href="https://kimini.online/lms/login/with_facebook" class="plain"><i class="icon-facebook2 f24px mr8 facebook"></i>Facebookアカウントでログイン</a></li>
             
             
-            <li><a href="/lms/login/with_google" class="plain"><i class="icon-google2 f24px mr8 google"></i>Googleアカウントでログイン</a></li>
+            <li><a href="https://kimini.online/lms/login/with_google" class="plain"><i class="icon-google2 f24px mr8 google"></i>Googleアカウントでログイン</a></li>
             
         </ul>
         <ul class="content others" form="register" style="display:none;">
             
-            <li><a href="/lms/register/with_facebook" class="plain"><i class="icon-facebook2 f24px mr8 facebook"></i>Facebookアカウントで登録</a></li>
+            <li><a href="https://kimini.online/lms/register/with_facebook" class="plain"><i class="icon-facebook2 f24px mr8 facebook"></i>Facebookアカウントで登録</a></li>
             
             
-            <li><a href="/lms/register/with_google" class="plain"><i class="icon-google2 f24px mr8 google"></i>Googleアカウントで登録</a></li>
+            <li><a href="https://kimini.online/lms/register/with_google" class="plain"><i class="icon-google2 f24px mr8 google"></i>Googleアカウントで登録</a></li>
             
         </ul>
         
@@ -160,7 +160,7 @@
     <div class="upper">
         <ul class="w130">
             <li class="logo"><a href="/lms/" title="Kimini英会話">Kimini英会話</a></li>
-            <li class="pl15 small"><a href="/lms/news/">お知らせ</a></li>
+            <li class="pl15 small"><a href="https://kimini.online/lms/news/">お知らせ</a></li>
             <li class="pl15 small"><a href="https://kimini.online/blog/" target="_blank">公式ブログ</a></li>
             <li class="pl15 small"><a href="https://kimini.online/" target="_blank">公式HP</a></li>
             <li class="pl15 small"><a href="https://www.facebook.com/kimini.jp/" target="_blank">Facebook</a></li>
@@ -173,35 +173,35 @@
         <ul>
             <li class="heading">レッスン</li>
             
-            <li><a href="/lms/login/">ログイン</a></li>
-            <li><a href="/lms/register/">新規登録</a></li>
+            <li><a href="https://kimini.online/lms/login/">ログイン</a></li>
+            <li><a href="https://kimini.online/lms/register/">新規登録</a></li>
             
         </ul>
         <ul>
             <li class="heading">コースと料金</li>
-            <li><a href="/lms/courses/">コース一覧</a></li>
-            <li><a href="/lms/plans/">料金プラン</a></li>
-            <li><a href="/lms/teachers/">講師のご紹介</a></li>
-            <li><a href="/lms/reviews/">みんなの講師レビュー</a></li>
+            <li><a href="https://kimini.online/lms/courses/">コース一覧</a></li>
+            <li><a href="https://kimini.online/lms/plans/">料金プラン</a></li>
+            <li><a href="https://kimini.online/lms/teachers/">講師のご紹介</a></li>
+            <li><a href="https://kimini.online/lms/reviews/">みんなの講師レビュー</a></li>
             
         </ul>
         
         <ul>
             <li class="heading">サポート</li>
-            <li><a href="/lms/guide/">はじめての方へ</a></li>
-            <li><a href="/lms/faq/">よくあるご質問</a></li>
-            <li><a href="/lms/support/">お問い合わせ</a></li>
+            <li><a href="https://kimini.online/lms/guide/">はじめての方へ</a></li>
+            <li><a href="https://kimini.online/lms/faq/">よくあるご質問</a></li>
+            <li><a href="https://kimini.online/lms/support/">お問い合わせ</a></li>
             
-            <li><a href="/lms/checker/">ご利用環境の確認</a></li>
+            <li><a href="https://kimini.online/lms/checker/">ご利用環境の確認</a></li>
             <li><a href="https://kimini.online/business/" target="_blank">法人のお客様</a></li>
             <li><a href="https://online-eikaiwa.gakken.jp/?utm_source=kimini&amp;utm_medium=banner&amp;utm_campaign=kimini-banner-top" target="_blank">教育機関のお客様</a></li>
         </ul>
     </div>
     <ul class="bottom">
-        <li><a href="/lms/about/">運営会社</a></li>
-        <li><a href="/lms/terms/">利用規約</a></li>
-        <li><a href="/lms/policy/">プライバシーポリシー</a></li>
-        <li><a href="/lms/commercial/">特定商取引法に基づく表記</a></li>
+        <li><a href="https://kimini.online/lms/about/">運営会社</a></li>
+        <li><a href="https://kimini.online/lms/terms/">利用規約</a></li>
+        <li><a href="https://kimini.online/lms/policy/">プライバシーポリシー</a></li>
+        <li><a href="https://kimini.online/lms/commercial/">特定商取引法に基づく表記</a></li>
         <li class="gakken"><span>Gakken</span></li>
     </ul>
     
@@ -218,10 +218,10 @@
     
     <div class="menu">
         <ul>
-            <li class="guide"><a href="/lms/guide/"><i class="icon-play2 mr2 top-1px"></i>はじめての方へ</a></li>
-            <li class="login"><a href="/lms/login/"><i class="icon-user gray mr3"></i>ログイン</a></li>
+            <li class="guide"><a href="https://kimini.online/lms/guide/"><i class="icon-play2 mr2 top-1px"></i>はじめての方へ</a></li>
+            <li class="login"><a href="https://kimini.online/lms/login/"><i class="icon-user gray mr3"></i>ログイン</a></li>
         </ul>
-        <a href="/lms/register/" class="btn yellow small pl15 pr20 ml20"><i class="icon-note mr6"></i>新規登録</a>
+        <a href="https://kimini.online/lms/register/" class="btn yellow small pl15 pr20 ml20"><i class="icon-note mr6"></i>新規登録</a>
     </div>
     
     
@@ -265,7 +265,7 @@ fbq('track', 'PageView');
 
 
 
-<script type="text/javascript" src="//statics.a8.net/a8sales/a8sales.js"></script>
+<script type="text/javascript" src="https://kimini.online//statics.a8.net/a8sales/a8sales.js"></script>
 
 <script type="text/javascript" src="https://af.tosho-trading.co.jp/tafsales4.js"></script>
 
