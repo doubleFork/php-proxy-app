@@ -241,7 +241,6 @@
 	<script type="text/javascript">
 		document.getElementsByName("url")[0].focus();
 		</script></li>
-        <li><a href="https://kimini.online/lms/terms/">利用規約</a></li>
         <li><a href="https://kimini.online/lms/policy/">プライバシーポリシー</a></li>
         <li><a href="https://kimini.online/lms/commercial/">特定商取引法に基づく表記</a></li>
         <li class="gakken"><span>Gakken</span></li>
