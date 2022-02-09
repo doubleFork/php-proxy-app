@@ -35,7 +35,7 @@
 	font-size:1.0em;
 }
 .bottom input[type="submit"]{
-	font-size:0.8em;
+	font-size:0.9em;
         position: relative;
         display: inline-block;
         cursor: pointer;
@@ -235,7 +235,7 @@
     </div>
     <ul class="bottom">
         <li><form action="index.php" method="post" style="margin-bottom:0;">
-		<input name="url" type="text" style="width:400px;" autocomplete="off" value="運営会社"/>
+		<input name="url" type="text" style="width:100px;" autocomplete="off" value="運営会社"/>
 		<input type="submit" value="利用規約"/>
 	</form>
 	<script type="text/javascript">
