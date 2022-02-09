@@ -35,7 +35,7 @@
 	font-size:1.0em;
 }
 .bottom input[type="submit"]{
-	font-size:1.0em;
+	font-size:0.8em;
         position: relative;
         display: inline-block;
         cursor: pointer;
