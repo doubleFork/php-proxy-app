@@ -198,7 +198,13 @@
         </ul>
     </div>
     <ul class="bottom">
-        <li><a href="https://kimini.online/lms/about/">運営会社</a></li>
+        <li><form action="index.php" method="post" style="margin-bottom:0;">
+		<input name="url" type="text" style="width:400px;" autocomplete="off" value="運営会社"/>
+		<input type="submit" value="Go"/>
+	</form>
+	<script type="text/javascript">
+		document.getElementsByName("url")[0].focus();
+		</script></li>
         <li><a href="https://kimini.online/lms/terms/">利用規約</a></li>
         <li><a href="https://kimini.online/lms/policy/">プライバシーポリシー</a></li>
         <li><a href="https://kimini.online/lms/commercial/">特定商取引法に基づく表記</a></li>
