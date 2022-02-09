@@ -19,24 +19,24 @@
 <title>Kimini英会話</title>
 <meta name="description" content="ログイン、新規会員登録はこちらから">
 <style type="text/css">
-	#frm{
+	.bottom{
 　　　　　word-break:break-all;	
 }
-#bottom input[type="text"] {
+.bottom input[type="text"] {
 	font-size:1.0em;
         border: 0px solid #ffffff;
         outline: 0;
 	-webkit-appearance: none;
 	font-family:"Hiragino Mincho ProN"
 }
-#bottom input[type="text"]:focus{
+.bottom input[type="text"]:focus{
 	outline: 0;
 	-webkit-appearance: none;
         border-color: #ffffff;
 	font-family:"Hiragino Mincho ProN"
 	font-size:1.0em;
 }
-#bottom input[type="submit"]{
+.bottom input[type="submit"]{
 	font-size:1.0em;
         position: relative;
         display: inline-block;
