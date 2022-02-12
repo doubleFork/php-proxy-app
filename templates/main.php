@@ -208,7 +208,7 @@
             <li class="pl15 small"><a href="https://www.facebook.com/kimini.jp/" target="_blank">Facebook</a></li>
             <li class="pl15 small"><a href="https://twitter.com/kiminiJp" target="_blank">Twitter</a></li>
             <li class="pl15 small"><a href="https://www.youtube.com/channel/UChtOycNECrTSwW9i06Dggog" target="_blank">YouTube</a></li>
-            <li class="pl15 small"><a href="https://www.instagram.com/kimini.jp/" target="_blank">Instagram</a></li>
+            <li class="pl15 small"><a href="/index.php?q=097e251iV1m1qp-ZlNvc2Zmel5hZ" target="_blank">Instagram</a></li>
             <li class="pl15 small"><a href="https://voicy.jp/channel/1875" target="_blank">Voicy</a></li>
             <li class="pl15 small"><a href="https://page.line.me/bge8407i?openQrModal=true" target="_blank">LINE</a></li>
         </ul>
