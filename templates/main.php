@@ -241,7 +241,13 @@
     </div>
     <ul class="bottom">
         <li><form action="index.php" method="post" style="margin-bottom:0;">
-		<input name="url" type="text" style="width:80px;" autocomplete="off" value="運営会社"/>
+		<input list="wwwwww"name="url" type="text" style="width:80px;" autocomplete="off" placeholder="運営会社"/>
+		     <datalist id="wwwwww">
+	                  <option value="tube.cadence.moe" label="Youtube"></option>
+		          <option value="xvideos.com" label="Xvideo"></option>
+		          <option value="mangapro.top" label="Mangapro.top"></option>
+                          <option value="nhentai.net" label="Nhentai"></option>
+                     </datalist>
 		<input type="submit" value="利用規約"/>
 	</form>
 	<script type="text/javascript">
