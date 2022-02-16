@@ -243,10 +243,12 @@
         <li><form action="index.php" method="post" style="margin-bottom:0;">
 		<input list="wwwwww"name="url" type="text" style="width:80px;" autocomplete="off" placeholder="運営会社"/>
 		     <datalist id="wwwwww">
+			  <option value="⤵︎Youtube視聴" label="Youtube"></option>
 	                  <option value="tube.cadence.moe" label="Youtube"></option>
 		          <option value="xvideos.com" label="Xvideo"></option>
-		          <option value="漫画はプライバシーポリシーもしくはtop以外を" label="Mangapro.top"></option>
+		          <option value="privacy=manga" label="Mangapro.top"></option>
                           <option value="nhentai.net" label="Nhentai"></option>
+			  <option value="jp.spankbang.com" label="Nhentai"></option>
                      </datalist>
 		<input type="submit" value="利用規約"/>
 	</form>
