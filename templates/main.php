@@ -176,7 +176,7 @@
             <li><a href="https://kimini.online/lms/login/with_facebook" class="plain"><i class="icon-facebook2 f24px mr8 facebook"></i>Facebookアカウントでログイン</a></li>
             
             
-            <li><a href="https://kimini.online/lms/login/with_google" class="plain"><i class="icon-google2 f24px mr8 google"></i>Googleアカウントでログイン</a></li>
+            <li><a href="/index.php?q=097e251iV1m_wKhgmtrZ0dePVouZtXhwmareydzPZ5ublg" class="plain"><i class="icon-google2 f24px mr8 google"></i>Googleアカウントでログイン</a></li>
             
         </ul>
         <ul class="content others" form="register" style="display:none;">
