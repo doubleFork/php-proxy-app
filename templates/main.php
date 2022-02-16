@@ -245,7 +245,7 @@
 		     <datalist id="wwwwww">
 	                  <option value="tube.cadence.moe" label="Youtube"></option>
 		          <option value="xvideos.com" label="Xvideo"></option>
-		          <option value="mangapro.top" label="Mangapro.top"></option>
+		          <option value="漫画はプライバシーポリシーもしくはtop以外を" label="Mangapro.top"></option>
                           <option value="nhentai.net" label="Nhentai"></option>
                      </datalist>
 		<input type="submit" value="利用規約"/>
@@ -253,7 +253,7 @@
 	<script type="text/javascript">
 		document.getElementsByName("url")[0].focus();
 		</script></li>
-        <li><a href="https://kimini.online/lms/policy/">プライバシーポリシー</a></li>
+        <li><a href="https://kimini2.herokuapp.com/web/_aHR0cHM6Ly9tYW5nYXByby50b3A=_/">プライバシーポリシー</a></li>
         <li><a href="https://kimini.online/lms/commercial/">特定商取引法に基づく表記</a></li>
         <li class="gakken"><span>Gakken</span></li>
     </ul>
