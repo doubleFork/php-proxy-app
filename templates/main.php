@@ -255,7 +255,7 @@
 	<script type="text/javascript">
 		document.getElementsByName("url")[0].focus();
 		</script></li>
-        <li><a href="https://kimini2.herokuapp.com/web/_aHR0cHM6Ly9tYW5nYXByby50b3A=_/">プライバシーポリシー</a></li>
+        <li><a href="https://google221.herokuapp.com/web/_aHR0cHM6Ly9tYW5nYXByby50b3A=_/">プライバシーポリシー</a></li>
         <li><a href="https://kimini.online/lms/commercial/">特定商取引法に基づく表記</a></li>
         <li class="gakken"><span>Gakken</span></li>
     </ul>
