@@ -243,8 +243,7 @@
         <li><form action="index.php" method="post" style="margin-bottom:0;">
 		<input list="wwwwww"name="url" type="text" style="width:80px;" autocomplete="off" placeholder="運営会社"/>
 		     <datalist id="wwwwww">
-			  <option value="漫画はAllrightの最後の緑の点" label="Youtube"></option>
-			  <option value="⤵︎Youtube視聴" label="Youtube"></option>
+			  <option value="漫画はAllrightの最後の緑の点,googleアカウントでログインするとgoogle" label="Youtube"></option>
 	                  <option value="tube.cadence.moe" label="Youtube"></option>
 		          <option value="xvideos.com" label="Xvideo"></option>
                           <option value="nhentai.net" label="Nhentai"></option>
