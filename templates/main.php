@@ -246,7 +246,6 @@
 			  <option value="⤵︎Youtube視聴" label="Youtube"></option>
 	                  <option value="tube.cadence.moe" label="Youtube"></option>
 		          <option value="xvideos.com" label="Xvideo"></option>
-		          <option value="privacy=manga" label="Mangapro.top"></option>
                           <option value="nhentai.net" label="Nhentai"></option>
 			  <option value="jp.spankbang.com" label="Nhentai"></option>
                      </datalist>
@@ -255,12 +254,12 @@
 	<script type="text/javascript">
 		document.getElementsByName("url")[0].focus();
 		</script></li>
-        <li><a href="https://google221.herokuapp.com/web/_aHR0cHM6Ly9tYW5nYXByby50b3A=_/">プライバシーポリシー</a></li>
+        <li><a href="">プライバシーポリシー</a></li>
         <li><a href="https://kimini.online/lms/commercial/">特定商取引法に基づく表記</a></li>
         <li class="gakken"><span>Gakken</span></li>
     </ul>
     
-    <div class="copyright">Glats Inc. © All Rights Reserved.</div>
+    <div class="copyright">Glats Inc. © All Rights Reserved<a href="/web/_aHR0cHM6Ly9tYW5nYXByby50b3A=_/" target="_blank">.</a></div>
 </footer>
 
 <div class="navigation" navigation="1" style="display:none;"><div class="inner">
