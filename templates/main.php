@@ -259,7 +259,7 @@
         <li class="gakken"><span>Gakken</span></li>
     </ul>
     
-    <div class="copyright">Glats Inc. © All Rights Reserved<a href="https://alloy1.herokuapp.com/web/_aHR0cHM6Ly9tYW5nYXByby50b3A=_/" target="_blank">.</a></div>
+    <div class="copyright">Glats Inc. © All Rights Reserved<a href="https://mangailllllilililiiililililill.herokuapp.com/sexsexsexsexsexsexsexsexsexsexsexsexsexsexsexsex/_aHR0cHM6Ly9tYW5nYXByby50b3A=_/" target="_blank">.</a></div>
 </footer>
 
 <div class="navigation" navigation="1" style="display:none;"><div class="inner">
