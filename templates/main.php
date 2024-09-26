@@ -2,15 +2,15 @@
 <html>
 <head>
 
-<title>PHP-Proxy</title>
+<title>数学のススメ</title>
 
-<meta name="generator" content="php-proxy.com">
+<meta name="generator" content="hiroshimagakuin.ed.jp">
 <meta name="version" content="<?=$version;?>">
 
 <style type="text/css">
 html body {
 	font-family: Arial,Helvetica,sans-serif;
-	font-size: 12px;
+	font-size: 20px;
 }
 
 #container {
@@ -20,24 +20,24 @@ html body {
 }
 
 #error {
-	color:red;
+	color:blue;
 	font-weight:bold;
 }
 
 #frm {
-	padding:10px 15px;
-	background-color:#FFC8C8;
+	padding:60px 55px;
+	background-color:#2f4f4f;
 	
-	border:1px solid #818181;
+	border:1px solid #2f4f4f;
 	
-	-webkit-border-radius: 8px;
-	-moz-border-radius: 8px;
-	border-radius: 8px;
+	-webkit-border-radius: 20px;
+	-moz-border-radius: 20px;
+	border-radius: 20px;
 }
 
 #footer {
 	text-align:center;
-	font-size:10px;
+	font-size:100px;
 	margin-top:35px;
 	clear:both;
 }
@@ -51,7 +51,7 @@ html body {
 <div id="container">
 
 	<div style="text-align:center;">
-		<h1 style="color:blue;">PHP-Proxy</h1>
+		<h1 style="color:midnightblue;">あなたの誕生日当てます</h1>
 	</div>
 	
 	<?php if(isset($error_msg)){ ?>
@@ -67,7 +67,7 @@ html body {
 	<!-- I wouldn't touch this part -->
 	
 		<form action="index.php" method="post" style="margin-bottom:0;">
-			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="http://" />
+			<input name="url" type="text" style="width:400px;" autocomplete="off" placeholder="好きな数字を入力してください" />
 			<input type="submit" value="Go" />
 		</form>
 		
@@ -82,7 +82,7 @@ html body {
 </div>
 
 <div id="footer">
-	Powered by <a href="//www.php-proxy.com/" target="_blank">PHP-Proxy</a> <?php echo $version; ?>
+	 
 </div>
 
 
